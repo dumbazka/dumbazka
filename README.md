@@ -18,12 +18,12 @@
 
 Hi! I'm *Azka Zainab, a Software Engineer at **CBSOL*, Lahore — building clean, purposeful software across web and mobile.
 
-*Role* &nbsp;→&nbsp; Software Engineer @ CBSOL &nbsp;&nbsp;
-*Location* &nbsp;→&nbsp; Lahore, Pakistan &nbsp;&nbsp;
-*Focus* &nbsp;→&nbsp; Software Engineering · Mobile · Clean UI &nbsp;&nbsp;
-*Learning* &nbsp;→&nbsp; System Design · Cloud Architecture · DSA &nbsp;&nbsp;
-*Favourite* &nbsp;→&nbsp; Python — clean syntax, endless possibilities &nbsp;&nbsp;
-*Fun fact* &nbsp;→&nbsp; I debug better with lo-fi music playing
+•⁠  ⁠*Role* → Software Engineer @ CBSOL
+•⁠  ⁠*Location* → Lahore, Pakistan
+•⁠  ⁠*Focus* → Software Engineering · Mobile · Clean UI
+•⁠  ⁠*Learning* → System Design · Cloud Architecture · DSA
+•⁠  ⁠*Favourite* → Python — clean syntax, endless possibilities
+•⁠  ⁠*Fun fact* → I debug better with lo-fi music playing
 
 <br/>
 
@@ -44,20 +44,11 @@ Hi! I'm *Azka Zainab, a Software Engineer at **CBSOL*, Lahore — building clean
 ## ✦ GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dumbazka&show_icons=true&hide_border=true&bg_color=faf8ff&title_color=7c3aed&icon_color=a78bfa&text_color=4c1d95&ring_color=c4b5fd" height="155"/>
-&nbsp;
-<img src="https://streak-stats.demolab.com?user=dumbazka&hide_border=true&background=faf8ff&ring=7c3aed&fire=a78bfa&currStreakLabel=7c3aed&sideLabels=6d28d9&currStreakNum=4c1d95&sideNums=4c1d95&dates=c4b5fd&border_radius=10" height="155"/>
+<img src="https://streak-stats.demolab.com?user=dumbazka&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c4b5fd&currStreakNum=e9d5ff&sideNums=e9d5ff&dates=7c3aed&border_radius=10" height="160"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumbazka&layout=compact&hide_border=true&bg_color=faf8ff&title_color=7c3aed&text_color=4c1d95&border_radius=10" height="140"/>
-&nbsp;
-<img src="https://github-profile-trophy.vercel.app/?username=dumbazka&theme=onestar&no-frame=true&margin-w=6&row=1&column=4&title=PullShark,Commits,Repositories,Followers" height="140"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dumbazka&bg_color=faf8ff&color=7c3aed&line=a78bfa&point=7c3aed&area=true&area_color=ede9fe&hide_border=true&border_radius=12" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dumbazka&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&area_color=2d1b69&hide_border=true&border_radius=12" width="96%"/>
 
 </div>
 
