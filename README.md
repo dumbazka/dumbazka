@@ -18,12 +18,14 @@
 
 Hi! I'm *Azka Zainab, a Software Engineer at **CBSOL*, Lahore — building clean, purposeful software across web and mobile.
 
-•⁠  ⁠*Role* → Software Engineer @ CBSOL
-•⁠  ⁠*Location* → Lahore, Pakistan
-•⁠  ⁠*Focus* → Software Engineering · Mobile · Clean UI
-•⁠  ⁠*Learning* → System Design · Cloud Architecture · DSA
-•⁠  ⁠*Favourite* → Python — clean syntax, endless possibilities
-•⁠  ⁠*Fun fact* → I debug better with lo-fi music playing
+<table>
+  <tr><td>🏢 Role</td><td>Software Engineer @ CBSOL</td></tr>
+  <tr><td>📍 Location</td><td>Lahore, Pakistan</td></tr>
+  <tr><td>💻 Focus</td><td>Software Engineering · Mobile · Clean UI</td></tr>
+  <tr><td>🌱 Learning</td><td>System Design · Cloud Architecture · DSA</td></tr>
+  <tr><td>🐍 Favourite</td><td>Python — clean syntax, endless possibilities</td></tr>
+  <tr><td>⚡ Fun fact</td><td>I debug better with lo-fi music playing</td></tr>
+</table>
 
 <br/>
 
@@ -44,6 +46,7 @@ Hi! I'm *Azka Zainab, a Software Engineer at **CBSOL*, Lahore — building clean
 ## ✦ GitHub Stats
 
 <div align="center">
+
 <img src="https://streak-stats.demolab.com?user=dumbazka&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c4b5fd&currStreakNum=e9d5ff&sideNums=e9d5ff&dates=7c3aed&border_radius=10" height="160"/>
 
 <br/>
